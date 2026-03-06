@@ -3,4 +3,4 @@
 ## I'm a Linux System Engineer
 
 ## My Skills
-[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure&perline=3)](https://skillicons.dev)
